@@ -1,8 +1,13 @@
-p{
-    text-align: center;
-    
+body{
+
 }
+
 h1{
     text-align: center;
     background-color: rgb(91, 77, 175);
+}
+
+p{
+    text-align: center;
+    
 }
