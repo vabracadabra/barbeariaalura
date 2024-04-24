@@ -18,3 +18,7 @@ p{
 em strong{
     color: rgb(10, 72, 165);
 }
+
+#banner{
+    width: 100%;
+}
