@@ -9,6 +9,7 @@ font-size: 25px;
 h1{
     text-align: center;
     background-color: rgb(91, 77, 175);
+    width: 100px;
 }
 
 p{
