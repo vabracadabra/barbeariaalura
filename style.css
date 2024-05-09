@@ -34,6 +34,10 @@ em strong{
     background: red;
     padding: 20px;
 }
+h2{
+    text-align: center;
+    border: 10px double;
+}
 
 
 
